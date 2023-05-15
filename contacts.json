@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "area": "CRA",
+      "number": "(35)3391-3921"
+    },
+    {
+      "id": 2,
+      "area": "Tesouraria",
+      "number": "(35)3391-3922"
+    },
+    {
+      "id": 3,
+      "area": "RH",
+      "number": "(35)3391-3923"
+    }
+  ]
+}
